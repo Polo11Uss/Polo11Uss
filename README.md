@@ -10,7 +10,7 @@
 
   <br><br>
 
-  <!-- BADGES DE TECNOLOGIAS (ESTILO NEON) -->
+  <!-- BADGES DE TECNOLOGIAS -->
   <h3>🧬 SYSTEM CORE & STACK 🧬</h3>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -22,31 +22,26 @@
 
   <br>
 
-  <!-- CARD DE ESTATÍSTICAS COM TEMA CYBERPUNK/SYNTHWAVE -->
+  <!-- CARDS DE ESTATÍSTICAS (VERSÃO ATUALIZADA E ESTÁVEL) -->
   <h3>🤖 CYBERNETIC STATS 🤖</h3>
 
-  <a href="https://github.com/Polo11Uss">
-    <img src="https://github-readme-stats.vercel.app/api?username=Polo11Uss&show_icons=true&theme=synthwave&hide_border=true&title_color=00f0ff&icon_color=ff007f&text_color=ffffff&bg_color=0d0221" alt="Polo11Uss GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/Polo11Uss">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polo11Uss&layout=compact&theme=synthwave&hide_border=true&title_color=00f0ff&icon_color=ff007f&text_color=ffffff&bg_color=0d0221" alt="Top Languages" width="45%" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/Polo11Uss">
+      <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=Polo11Uss&show_icons=true&theme=synthwave&count_private=true" alt="Polo11Uss GitHub Stats" width="45%" />
+    </a>
+    <a href="https://github.com/Polo11Uss">
+      <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=Polo11Uss&layout=compact&theme=synthwave" alt="Top Languages" width="45%" />
+    </a>
+  </p>
 
-  <br><br>
-
-  <!-- STREAK CARD (SEQUÊNCIA DE COMMITS) -->
-  <a href="https://github.com/Polo11Uss">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Polo11Uss&theme=synthwave&hide_border=true&background=0D0221&stroke=00F0FF&alarm=FF007F" alt="Polo11Uss Streak" width="95%" />
-  </a>
-
-  <br><br>
+  <br>
 
   <!-- SEPARADOR FINAL -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a470-11eb-9a3d-492930c65252.gif" width="100%" alt="Neon Divider" />
 
   <br>
 
-  <!-- REDES SOCIAIS E CONTATO NEON -->
+  <!-- REDES SOCIAIS E CONTATO -->
   <h3>🌐 CONNECT TO THE MATRIX 🌐</h3>
   <p>
     <a href="https://github.com/Polo11Uss" target="_blank">
